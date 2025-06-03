@@ -1,0 +1,16 @@
+{
+  "apiID": "app_121003_package_7cf0e8__c__function_aadih2nz2igiu",
+  "apiName": "gitlab_node14",
+  "label": {
+    "zh_CN": "gitlab_node14",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
